@@ -174,9 +174,8 @@ The camera preview frame gets in the way of our scene.  Lets turn this off.  Go 
 
 Also disable the Mobile interface contoller from project setting: 
 
-![line2](../images/MobileInterface.png)
+![MobileInterface is on the rendered scene!](images/MobileInterface.png)
 
-![line2](../images/line2.png)
 
 Adjust the camera settings.  Our **Red Komodo** has a **Sensor Width** of `27.03` mm, a **Sensor Height** of `14.26` mm when shooting at 6K (6244 x 3250).
 
