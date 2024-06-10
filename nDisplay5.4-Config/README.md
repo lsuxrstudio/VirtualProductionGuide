@@ -10,15 +10,15 @@ The heart of how the multi view system works in Unreal is through a plugin calle
 
 ---
 
-##### `Step 1.`\|`BTS`|:small_blue_diamond:
+##### `Step 1.`\
 
-First we need a 3-D representation of our wall in exact dimesions.  Download the static mesh [LSU_LED_Wall.FBX](https://github.com/lsuxrstudio/xrstudioguides/blob/main/files/LSU_LED_Wall.fbx?raw=true).
+First we need a 3-D representation of our wall in exact dimesions.  Download the static mesh [LSU_LED_Wall.FBX](https://github.com/lsuxrstudio/xrstudioguides/blob/main/files/LSU_LED_Wall.fbx).
 
 ![download static mesh](images/downloadFBXWall.png)
 
 ![line2](../images/line2.png)
 
-##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\
 
 Drag the fbx you downloaded above into the **Stages** folder. Turn off **Generate Missing Collision**  and accept all the other default settings for importing FBXs. Press the **Import All** button to import the static mesh of the LSU LED volume.
 
@@ -26,7 +26,7 @@ Drag the fbx you downloaded above into the **Stages** folder. Turn off **Generat
 
 ![line2](../images/line2.png)
 
-##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\
 
 It also imported an unneeded **Material** do you can right click and select **Force Delete**.
 
@@ -34,7 +34,7 @@ It also imported an unneeded **Material** do you can right click and select **Fo
 
 ![line2](../images/line2.png)
 
-##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\
 
 Open up the static mesh and it is an exact replica of our screen.  It contains two sets of UV's.  UV0 is just a 0 to 1 UV with the entire area filed.  The UV1 has our 6 x 14 grid of screens with the exact ratio of the wall.
 
@@ -43,7 +43,7 @@ Open up the static mesh and it is an exact replica of our screen.  It contains t
 
 ![line2](../images/line2.png)
 
-##### `Step 5.`\|`BTS`| :small_orange_diamond:
+##### `Step 5.`\
 
 The only change we need to make to this static mesh is to set **Use Full Precision UVs** to `true`. This uses greater floating point accuracy when calculating the UV's (I believe).
 
@@ -169,6 +169,12 @@ Now go to the **Main** level and select the **LSUnDisplayConfig** in game and cl
 The camera preview frame gets in the way of our scene.  Lets turn this off.  Go to **Edit | Editor Preferences** and go to **Level Editor - Viewports | Look and Feel**  and turn off **Preview Select Cameras**.
 
 ![camera preview gets in way of scene](images/turnOffCameraPreview.png)
+
+![line2](../images/line2.png)
+
+Also disable the Mobile interface contoller from project setting: 
+
+![line2](../images/MobileInterface.png)
 
 ![line2](../images/line2.png)
 
