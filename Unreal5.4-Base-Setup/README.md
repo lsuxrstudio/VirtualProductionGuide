@@ -161,7 +161,7 @@ Content/
 
 ### Setting Up Project
 
-[home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../ndisplay5-config/README.md#user-content-ndisplay-config)</sub>
+[home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../nDisplay5.4-config/README.md#user-content-ndisplay-config)</sub>
 
 ![line3](../images/line3.png)
 
@@ -332,5 +332,5 @@ ___
 
 
 
-| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../ndisplay5-config/README.md#user-content-ndisplay-config)|
+| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../ndisplay5.4-config/README.md#user-content-ndisplay-config)|
 |---|---|

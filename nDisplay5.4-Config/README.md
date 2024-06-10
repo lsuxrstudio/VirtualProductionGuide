@@ -1,6 +1,6 @@
 ### nDisplay Config
 
-<sub>[previous](../) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../live-link5.4/README.md#user-content-live-link)</sub>
+<sub>[previous](../Unreal5.4-Base-Setup/README.md) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../live-link5.4/README.md#user-content-live-link)</sub>
 
 ![line3](../images/line3.png)
 
@@ -188,5 +188,5 @@ ___
 
 ![line](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../live-link5.4/README.md#user-content-live-link)|
+| [previous](../Unreal5.4-Base-Setup/README.md)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../live-link5.4/README.md#user-content-live-link)|
 |---|---|---|
