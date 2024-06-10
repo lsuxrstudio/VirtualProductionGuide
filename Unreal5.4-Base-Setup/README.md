@@ -187,7 +187,7 @@ Run the **Epic Games Launcher** and run the latest version of Unreal. Selet the 
 We need to download two external plugins. **[OptiTrack](https://optitrack.com/support/downloads/plugins.html)** for the **Live Link** support in **Motive** that handles camera tracking. For focus we are using **LOLED Indie Mark[]** encoders which require a server to be installed as well as a plugin for Unreal **[Lonet 2 - Live Link](https://loledvirtual.com/documentation/software-downloads/files)**.
 
 ![Download Lonet2](images/DownloadLONET.png)
-![Download OptiTrack](OptiTrackDownload.png)
+![Download OptiTrack](images/OptiTrackDownload.png)
 
 
 ##### Step 3.
