@@ -163,7 +163,6 @@ Content/
 
 [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../nDisplay5.4-Config/README.md#user-content-ndisplay-config)</sub>
 
-![line3](../images/line3.png)
 
 How to create an Unreal project from scratch in Unreal 5.X.X for an in-camera virual production using LSU's equipment in their XR lab in room 1001 at the DMC.
 
@@ -188,12 +187,12 @@ Run the **Epic Games Launcher** and run the latest version of Unreal. Selet the 
 We need to download two external plugins. **[OptiTrack](https://optitrack.com/support/downloads/plugins.html)** for the **Live Link** support in **Motive** that handles camera tracking. For focus we are using **LOLED Indie Mark[]** encoders which require a server to be installed as well as a plugin for Unreal **[Lonet 2 - Live Link](https://loledvirtual.com/documentation/software-downloads/files)**.
 
 ![Download Lonet2](images/DownloadLONET.png)
-
+![Download OptiTrack](OptiTrackDownload.png)
 
 
 ##### Step 3.
 
-Place them in the project folder under a new directory called `Plugins`.
+Create a new folder under the project folder name it `Plugins` then move the downloaded plugins into it.
 
 ![MoveLonetToPlugins](images/MoveLonetToPlugins.png)
 
