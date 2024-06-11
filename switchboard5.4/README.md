@@ -1,6 +1,6 @@
 ### Switchboard New Config
 
-<sub>[previous](../live-link5.4/Readme.md) • [home](/README.md) • [next](/README.md)</sub>
+<sub>[previous](../live-link5.4/README.md) • [home](/README.md) • [next](/README.md)</sub>
 
 ![line3](../images/line3.png)
 
