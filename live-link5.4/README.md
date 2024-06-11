@@ -1,6 +1,6 @@
 ### Live Link
 
-<sub>[previous](../ndisplay5-config/README.md#user-content-ndisplay-config) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../hdr5-output/README.md#user-content-hdr-output)</sub>
+<sub>[previous](../ndisplay5.4-config/README.md#user-content-ndisplay-config) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../switchboard5.4/README.md#user-content-hdr-output)</sub>
 
 ![line3](../images/line3.png)
 
@@ -10,7 +10,7 @@ Now we have the base nDisplay config set up.  We need to add camera tracking int
 
 ---
 
-##### `Step 1.`\|`BTS`|:small_blue_diamond:
+##### `Step 1.`\
 
 Lets get livelink setup to bring in Mocap data from the **OptiTrack**.  Make sure the motion capture system is turned on, has streaming enabled and has a static mesh tracking the camera on set.  Go to **Window | Virtual Production | Live Link**.
 
@@ -22,7 +22,7 @@ Press **+ Add** and select **OptiTrack Soucce** with default settings. Press the
 
 ![line2](../images/line2.png)
 
-##### `Step 2.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\
 
 Make sure your tracker has a green (not yellow or red) light and the name of the static mesh is the same as the one on the tracker. In our case it is called **RED_Camera**. This is the rigid body that is set up in **Motive**. Make sure that **Rebroadcast Subject** is set to `true`.
 
@@ -30,7 +30,7 @@ Make sure your tracker has a green (not yellow or red) light and the name of the
 
 ![line2](../images/line2.png)
 
-##### `Step 3.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\
 
 Now select **Presets** and choose `Save Preset`.  Save it to the **Stage** folder and call it `LiveLinkPreset`. Press the <kbd>Save</kbd> button.
 
@@ -38,7 +38,7 @@ Now select **Presets** and choose `Save Preset`.  Save it to the **Stage** folde
 
 ![line2](../images/line2.png)
 
-##### `Step 4.`\|`BTS`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\
 
 Now this just adds it to this tracking machine.  We also need to add it to the project configuraiton so that all the other machines can get this offset as well.  Open up the **Edit | Project Settings** folder and select **Live Link** plugin settings.  Assign `LiveLinkPreset` to **Default Live Link Preset**. 
 
@@ -46,7 +46,7 @@ Now this just adds it to this tracking machine.  We also need to add it to the p
 
 ![line2](../images/line2.png)
 
-##### `Step 5.`\|`BTS`| :small_orange_diamond:
+##### `Step 5.`\ :small_orange_diamond:
 
 Now that we have the **LiveLink** setup we just need to have it communicate to our in game camera.  Go back  to the **Main** level and select the **RedKomodo** cinecamera.  Press the green <kbd>+</kbd> button and select a **Live Link Controller** component. Call this component `CameraLocationLiveLink`.
 
@@ -112,5 +112,5 @@ ___
 
 ![line](../images/line.png)
 
-| [previous](../ndisplay5-config/README.md#user-content-ndisplay-config)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../hdr5-output/README.md#user-content-hdr-output)|
+| [previous](../ndisplay5.4-config/README.md#user-content-ndisplay-config)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../switchboard5.4/README.md#user-content-hdr-output)|
 |---|---|---|
