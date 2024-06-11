@@ -1,6 +1,6 @@
 ### Switchboard New Config
 
-<sub>[previous](/README.md) • [home](/README.md) • [next](/README.md)</sub>
+<sub>[previous](../live-link5.4/Readme.md) • [home](/README.md) • [next](/README.md)</sub>
 
 ![line3](../images/line3.png)
 
@@ -23,7 +23,7 @@ The following goes over how to create a new switchboard configuration.
 #### Switchboard
 
 1. If it's not already running, open **Switchboard Listener** using the desktop shortcut. It's also located at D:\Program Files\UE_5.0\Engine\Binaries\Win64\SwitchboardListener.exe.
-2. Open **Switchboard** using the desktop shortcut It's also located at D:\Program Files\UE_5.0\Engine\Plugins\VirtualProduction\Switchboard\Source\Switchboard\switchboard.bat.
+2. Open **Switchboard** using the desktop shortcut It's also located at D:\Program Files\UE_5.4\Engine\Plugins\VirtualProduction\Switchboard\Source\Switchboard\switchboard.bat.
 3. Go to Configs > **New Config**
     
     ![New Switchboard Config](images/switchboardNewConfig.png)
@@ -48,11 +48,11 @@ The following goes over how to create a new switchboard configuration.
     
     ![Add Unreal Device](images/addDeviceUnreal.png)
     
-10. Use **130.39.93.73** for the IP address 
+10. Use **130.39.93.73** for the IP address and name it 'Operator'
 
     ![Unreal IP Address](images/UnrealIPAddress.png)
         
-11. Go to Settings and change the **nDisplay Node_0 Workspace Name** to the workspace on that computer (i.e. 22suart4240-render).
+11. Go to Settings and change the **nDisplay Node_0 Workspace Name** to the workspace on that computer (i.e. virtualproduction_xrlab).
 
     ![nDisplay Workspace Name](images/nDisplayWorkspaceName.png)
 
@@ -131,5 +131,5 @@ Open up Switchboard Listener by double clicking its icon on the desktop.
 
 ---
 
-| [previous](/README.md)| [home](/README.md) | [next](/README.md)|
+| [previous](../live-link5.4/README.md)| [home](/README.md) | [next](/README.md)|
 |---|---|---|
