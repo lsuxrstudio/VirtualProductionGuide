@@ -2,7 +2,7 @@
 
 ## Project Setup
 
-[Video Tutorial for this Guide](Video/BaseSetup.mp4)
+[Video Tutorial for this Guide](https://lsu.box.com/s/anu8l2jft0rj86zz7cat78a1zdz18mqn)
 1. Create a new project in 
 2. Create the below folder structure in the Unreal Contenet Browser.
 
