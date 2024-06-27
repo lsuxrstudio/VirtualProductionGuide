@@ -1,4 +1,5 @@
 ### Live Link
+[Video Tutorial for this Guide](https://lsu.box.com/s/otieqhnxtkpcb573o1x05u6l5tjkbwl1)
 
 <sub>[previous](../ndisplay5.4-config/README.md#user-content-ndisplay-config) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) • [next](../switchboard5.4/README.md#user-content-hdr-output)</sub>
 
