@@ -4,7 +4,7 @@
 
 ![line3](../images/line3.png)
 
-To Watch How to confige switchboard from editor Click on this [link](https://lsu.box.com/s/hzer97tiksbjf3n2ss209fo1qaridh2a)!
+To Watch How to confige switchboard from editor Click on this [link](https://lsu.box.com/s/8uto5biv7q310vb4txss5oj31dognf6d)!
 
 The following goes over how to create a new switchboard configuration.
 
