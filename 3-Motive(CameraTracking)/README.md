@@ -1,6 +1,6 @@
 ### Motion Capture & Camera Tracking
 
-[Video Tutorial for this Guide](https://lsu.box.com/s/pgo4k4ebsknzwk4vwugjnnpzy2yu8iy2)
+[Video Tutorial for this Guide](https://lsu.box.com/s/rcgb4m25y23by2qf9mrryk4e3l2vji9p)
 
 <sub>[previous](../) • [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents)</sub>
 
