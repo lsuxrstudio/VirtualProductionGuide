@@ -167,8 +167,6 @@ The current lens on the camera today is a Canon EF 16mm - 35mm 2.8. These values
 ![Red Komodo and Canon lens settings](images/cameraAndLens.png)
 
 
-![live link next](images/ndisplayconfig.jpg)
-
 
 | [previous](../Unreal5.4-Base-Setup/README.md)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../live-link5.4/README.md#user-content-live-link)|
 |---|---|---|
