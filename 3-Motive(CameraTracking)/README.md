@@ -75,5 +75,5 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../unreal-base-setup/README.md)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) |
+| [previous](../2-nDisplay5.4-Config/README.md#user-content-live-link)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) |
 |---|---|
