@@ -133,5 +133,5 @@ Open up Switchboard Listener by double clicking its icon on the desktop.
 
 ---
 
-| [previous](../live-link5.4/README.md)| [home](/README.md) | [next](/README.md)|
+| [previous](../4-live-link5.4/README.md)| [home](/README.md) | [next](/README.md)|
 |---|---|---|
