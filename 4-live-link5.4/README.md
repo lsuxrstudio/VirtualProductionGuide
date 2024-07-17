@@ -97,5 +97,5 @@ If everything works resave the **Live Link** preset to the same file overwriting
 ___
 
 
-| [previous](../ndisplay5.4-config/README.md#user-content-ndisplay-config)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../switchboard5.4/README.md#user-content-hdr-output)|
+| [previous](../4-live-link5.4/README.md#user-content-ndisplay-config)| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../5-switchboard5.4/README.md#user-content-hdr-output)|
 |---|---|---|
