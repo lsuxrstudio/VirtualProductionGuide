@@ -159,5 +159,5 @@ ___
 
 
 
-| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../2-ndisplay5.4-Config/README.md#user-content-live-link)|
+| [home](../README.md#user-content-gms2-background-tiles--sprites---table-of-contents) | [next](../2-nDisplay5.4-Config/README.md#user-content-live-link)|
 |---|---|
