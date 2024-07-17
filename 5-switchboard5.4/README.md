@@ -2,26 +2,6 @@
 
 <sub>[previous](../live-link5.4/README.md) • [home](/README.md) • [next](/README.md)</sub>
 
-![line3](../images/line3.png)
-
-To Watch How to confige switchboard from editor Click on this [link](https://lsu.box.com/s/8uto5biv7q310vb4txss5oj31dognf6d)!
-
-The following goes over how to create a new switchboard configuration.
-
-### Guide To Do's 
-- [ ] replace screenshot showing 127.0.0.1 with actual IP
-- [ ] add a step to launch the uproject on the render node to let shaders compile. can also add an extra step to click the build button in switchboard as a troubleshooting step.  
-- [ ] suggest building first on the operator to check for build errors before building on the render node.
-
----
-
-#### Pre-reqs
-
-1. Before proceeding make sure you’ve setup your Perfoce workspaces. See [Setting up Perforce on Operator and Render Nodes](../operator-and-render/README.md) 
-2. Make sure you've setup your scene for nDisplay and camera tracking. It's easiest to start off with the LSUBaseTemplate and build your environment on top of that, but you may also build these components from scratch, or migrate your project into the LSUBaseTemplate, see: [LSU Base Template Migration](../template-migration/README.md).
-3. It’s useful to connect the project to source control from within the editor first. This way switchboard can auto-populate some of the fields below.  
-4. Make sure to close Unreal if you're going to launch Switchboard from outside the editor. 
-
 #### Switchboard
 
 1. If it's not already running, open **Switchboard Listener** using the desktop shortcut. It's also located at D:\Program Files\UE_5.0\Engine\Binaries\Win64\SwitchboardListener.exe.
